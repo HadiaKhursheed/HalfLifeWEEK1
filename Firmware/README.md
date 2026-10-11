@@ -8,6 +8,7 @@ Libraries to be installed- TM1637 Library by Avishay Orpaz
 2. Define CLK & DIO pins numbers-> **#define CLK 8 and #define DIO 9**
 3. List the variable names & the logic you will be running.
 4. In void setup-> write the one time actions like pin modes, library initializations & serial monitor configurations.
+5. In void loop-> white the task that will happen one after another after some delay.
 
 # How does the animation.ino work?
 It is my display testing code. \
