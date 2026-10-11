@@ -9,8 +9,9 @@ Libraries to be installed- TM1637 Library by Avishay Orpaz
 3. List the variable names & the logic you will be running.
 4. In void setup-> write the one time actions like pin modes, library initializations & serial monitor configurations.
 
-# What does the animation.ino do?
+# How does the animation.ino work?
 It is my display testing code. \
 In it I broke down Upper & Lower Segments in parts. \
-In output result the display's upper and lower segments glows
+In output result the display's upper and lower segments glows in some manner. \
+[Refer video **DisplayAnimation.mp4**]
 
