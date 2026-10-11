@@ -39,4 +39,4 @@ There are two types of led connection we can make- common anode or common cathod
 
 
 
-<img width="1143" height="225" alt="image" src="https://github.com/user-attachments/assets/0c764abb-a595-417b-a6bc-b8eec3a4042f" />
+
