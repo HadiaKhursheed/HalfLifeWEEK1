@@ -1,5 +1,5 @@
 # HackClubHalfLife PCB Week
-My project is inspired from easily available LED Display Module. I plan to make PCB aroung its circuitry and logics. \
+My project is inspired from easily available LED Display Module. I plan to make PCB around its circuitry and logics. \
 The LEDs on this display module works because of an IC called TM1637 IC. \
 The TM1637 IC can run LED displays & Keyboards in 6by8 and 2by8 matrix repectively. 
 
