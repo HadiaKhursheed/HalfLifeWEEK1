@@ -31,13 +31,23 @@ const uint8_t SEG_ALL_OFF = 0x00;
 
 const uint8_t ANIMATION_FRAMES [4] = {
 
-    //Forward glowing sequence
+//Forward glowing sequence
     {SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF}, //F1- All off
     {SEG_UPPER_HALF_8, SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF}, //F1- Digit1- Upper half glows
     {SEG_UPPER_HALF_8, SEG_LOWER_HALF_8, SEG_ALL_OFF, SEG_ALL_OFF}, //F2- Digit1- Upper, Digit2- Lower glows
     {SEG_UPPER_HALF_8, SEG_LOWER_HALF_8, SEG_UPPER_HALF_8, SEG_ALL_OFF}, //F3- Digit1- Upper, Digit2- Lower, Digit3- Lower, Digit4- Upper glows
     {SEG_UPPER_HALF_8, SEG_LOWER_HALF_8, SEG_UPPER_HALF_8, SEG_LOWER_HALF_8}, //F4- Digit1- Upper, Digit2- Lower, Digit3- Upper, Digit4- Lower glows
-    SEG_ALL_OFF, seg_lower_half, segment extracolon, semicon 
+
+// Backward Glowing Sequence (Right to Left, Alternating Half-8) 
+  {SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF, SEG_UPPER_HALF_8}, // Frame 7: Digit 4 - Upper half glows
+  {SEG_ALL_OFF, SEG_ALL_OFF, SEG_LOWER_HALF_8, SEG_UPPER_HALF_8}, // Frame 8: Digit 3 - Lower, Digit 4 - Upper glows
+  {SEG_ALL_OFF, SEG_UPPER_HALF_8, SEG_LOWER_HALF_8, SEG_UPPER_HALF_8}, // Frame 9: Digit 2 - Upper, Digit 3 - Lower, Digit 4 - Upper glows
+  {SEG_LOWER_HALF_8, SEG_UPPER_HALF_8, SEG_LOWER_HALF_8, SEG_UPPER_HALF_8}, // Frame 10: Digit 1 - Lower, Digit 2 - Upper, Digit 3 - Lower, Digit 4 - Upper glows (All in pattern)
+
+  // Pause before repeating the cycle 
+  {SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF}, // Frame 11: All off
+  {SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF, SEG_ALL_OFF}  // Frame 12: Extended pause
+
 }
 
 // number of animation frames
