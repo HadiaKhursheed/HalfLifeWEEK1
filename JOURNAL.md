@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Making TM1637 IC powered display with leds. Leds will be through hole ones so to practice soldering too on it.
+> I got inspiration for this project from the 7 segment 4 digit time display module. I studied its datasheet and build requirements. And worked on making my own schematic. Working with TM1637 IC was very fulfilling for me as a beginner pcb designer.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
