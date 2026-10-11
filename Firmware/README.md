@@ -16,3 +16,8 @@ In it I broke down Upper & Lower Segments in parts. \
 In output result the display's upper and lower segments glows in some manner. \
 [Refer video **DisplayAnimation.mp4**]
 
+# Feature of the Display?
+Refer to the video [**FeaturesOfDisplay.mp4**] to have an idea of my display work. \
+I didn't add code used in this video because it needs seperate explaination of circuit diagram & its firmware's working.
+
+__THANK YOU__
