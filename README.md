@@ -20,7 +20,7 @@ Inspired by widely available, cost-effective LED display modules, this project i
 
 # Capibilities and Display modes:
 1. **Numbers & Selected Alphabets**: Render numeric data and custom alphanumeric characters.
-2. **​Temperature Monitoring**: Display real-time temperature readings in both Celsius (\text{°C}) and Fahrenheit (\text{°F}).
+2. **​Temperature Monitoring**: Display real-time temperature readings in both Celsius °C and Fahrenheit °F.
 3. ​**Scrolling Text**: Smoothly scroll messages or status updates across the 4 digits.
 4. ​**Counter & Timer**: Function as a digital stopwatch, countdown timer, or event counter.
 5. ​**Smart Alarm Clock**: Expandable with an external RTC (Real-Time Clock) time module to build a full-featured desk clock and alarm.
