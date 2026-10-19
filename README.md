@@ -28,21 +28,17 @@ Inspired by widely available, cost-effective LED display modules, this project i
 
 # Hardware specifications- 
 The custom PCB layout keeps external component counts minimal while maximizing functionality:
-​1. **Driver IC**: 1 × TM1637 IC
-
-​2. **Display Elements**: 30 total LEDs soldered directly to the board (28 LEDs forming the 4-digit 7-segment display + 2 LEDs forming the central colon).
-
+1. **Driver IC**: 1 × TM1637 IC
+2. **Display Elements**: 30 total LEDs soldered directly to the board (28 LEDs forming the 4-digit 7-segment display + 2 LEDs forming the central colon).
 3. **​Passive Components**: 2 resistors and 2 capacitors.
-
-​4. **External Requirements**: ESP32 microcontroller and jumper cables for connection.
-
+4. **External Requirements**: ESP32 microcontroller and jumper cables for connection.
 5. **​Circuit Configuration**: Designed to support either common anode or common cathode LED configurations depending on layout needs.
 
 
 # TM1637 IC pin mapping & architecture 
-The TM1637 IC handles multiplexing efficiently using a minimal pin layout:
-​1. **Grid Pins (4 of 6 Used)**: The IC features 6 grid pins total. Because this is a 4-digit display, exactly 4 grid pins are utilized to sequence each digit.
-2. **​Segment Pins (All 8 Used)**: The IC features 8 segment pins. 7 pins are dedicated to driving the individual segments of the 7-segment display, while the 8th pin drives the central colon LEDs.
+The TM1637 IC handles multiplexing efficiently using a minimal pin layout: \
+​1. **Grid Pins (4 of 6 Used)**: The IC features 6 grid pins total. Because this is a 4-digit display, exactly 4 grid pins are utilized to sequence each digit. \
+2. **​Segment Pins (All 8 Used)**: The IC features 8 segment pins. 7 pins are dedicated to driving the individual segments of the 7-segment display, while the 8th pin drives the central colon LEDs. \
 3. **​Communication Interface**: Connects to the ESP32 via a simple two-wire serial interface (CLK and DIO), preserving valuable GPIO pins.
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cc25d200-0f94-4601-b434-81924b6c133b" />
