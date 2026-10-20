@@ -1,11 +1,20 @@
-# Digital Clock Display
-It is a printed circuit board clock module. 
-My project is inspired from easily available LED Display Module. I plan to make PCB around its circuitry and logics.
+# DIGITAL CLOCK DISPLAY
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/e96ec315-8ea1-40f4-b74b-474f04fde427"  width="39%" />
+  <img src="https://github.com/user-attachments/assets/f787647e-1b9d-46dc-9fc7-244b52571333" width="39%" />
+</p>
+
+This is a Clock PCB Display that can display numbers using LEDs on it. It uses ESP32 and Arduino IDE Firmware. \
+I designed this by referencing the 7 Segment Clock Module I bought. So, I studied its datasheet, connection diagrams, IC working and logics. 
+
+<p float="center">
+  <img src="https://github.com/user-attachments/assets/ee46d2f1-e65e-416a-8f27-b4b746badebf" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4b86bff5-dba3-41b1-91d1-78d7a9799000" width="65%" />
+</p>
+
 The LEDs on this display module works because of an IC called TM1637 IC.
-The TM1637 IC can run LED displays & Keyboards in 6by8 and 2by8 matrix repectively.
+The TM1637 IC can run LED displays & Keyboards by making LED matrix.
 
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ee46d2f1-e65e-416a-8f27-b4b746badebf" />
 
 
 # Core features and specifications of TM1637 IC:
@@ -18,8 +27,6 @@ The TM1637 IC can run LED displays & Keyboards in 6by8 and 2by8 matrix repective
 3. ​**Minimal Pin Count**: Communicates via a simple two-wire serial interface (CLK and DIO), saving valuable GPIO pins on your microcontroller (such as an Arduino, ESP32, or STM32).
 
 4. **​Custom Form Factor**: Designed from scratch to fit a specific layout and form factor optimized for clean integration into custom enclosures or electronics projects.
-
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/4b86bff5-dba3-41b1-91d1-78d7a9799000" />
 
 
 # Capibilities and Display modes:
