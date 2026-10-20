@@ -1,5 +1,9 @@
-# HackClubHalfLife PCB Week
-Inspired by widely available, cost-effective LED display modules, this project is a custom PCB design built around the core circuitry and driving logic of the TM1637 IC. Instead of relying on off-the-shelf breakout boards, this project integrates the driver logic and LED matrix directly onto a custom-designed printed circuit board.
+# Digital Clock Display
+It is a printed circuit board clock module. 
+My project is inspired from easily available LED Display Module. I plan to make PCB around its circuitry and logics.
+The LEDs on this display module works because of an IC called TM1637 IC.
+The TM1637 IC can run LED displays & Keyboards in 6by8 and 2by8 matrix repectively.
+
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ee46d2f1-e65e-416a-8f27-b4b746badebf" />
 
