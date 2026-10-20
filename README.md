@@ -1,5 +1,5 @@
 # DIGITAL CLOCK DISPLAY
-<p float="left">
+<p float="center">
   <img src="https://github.com/user-attachments/assets/e96ec315-8ea1-40f4-b74b-474f04fde427"  width="39%" />
   <img src="https://github.com/user-attachments/assets/f787647e-1b9d-46dc-9fc7-244b52571333" width="39%" />
 </p>
