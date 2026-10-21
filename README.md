@@ -5,7 +5,7 @@
 </p>
 
 This is a Clock PCB Display that can display numbers using LEDs on it. It uses ESP32 and Arduino IDE Firmware. \
-I designed this by referencing the 7 Segment Clock Module I bought. So, I studied its datasheet, connection diagrams, IC working and logics. 
+I designed this by referencing the 7 Segment Clock Module I bought. I studied its datasheet, connection diagrams, IC working and logics to implement it in my PCB. 
 
 <p float="center">
   <img src="https://github.com/user-attachments/assets/ee46d2f1-e65e-416a-8f27-b4b746badebf" width="30%" />
@@ -21,6 +21,15 @@ The TM1637 IC can run LED displays & Keyboards by making LED matrix.
 3. Scrolling text
 4. Number counter or timer
 5. Alarm clock display
+
+# BOM used
+
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
+
 
 # My project specifications- 
 4 Digits made with 7 segments with one colon between them. \
