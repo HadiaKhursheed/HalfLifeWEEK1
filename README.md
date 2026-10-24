@@ -1,6 +1,6 @@
 # DIGITAL CLOCK DISPLAY
 <p float="center">
-  <img src="https://github.com/user-attachments/assets/e96ec315-8ea1-40f4-b74b-474f04fde427"  width="39%" />
+  <img src="https://github.com/user-attachments/assets/599451a6-8f52-4339-9b2b-e1af483abf2e"  width="39%" />
   <img src="https://github.com/user-attachments/assets/f787647e-1b9d-46dc-9fc7-244b52571333" width="39%" />
 </p>
 
@@ -26,8 +26,14 @@ The TM1637 IC can run LED displays & Keyboards by making matrix connections.
 <img width="1340" height="525" alt="Screenshot 2025-10-16 113158" src="https://github.com/user-attachments/assets/8d00fe10-69a6-444a-a991-aa0b4b018c8b" />
 Layout of the PCB was based on this schematic diagram which contains TM1637 IC, LEDs, etc. 
 
+
+
 # TM1637 IC connections
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cc25d200-0f94-4601-b434-81924b6c133b" />
+
+<p float="center">
+  <img src="https://github.com/user-attachments/assets/cc25d200-0f94-4601-b434-81924b6c133b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2c07c34d-e554-4603-b505-3cdade970077" width="30%" />
+</p>
 
 1. 8 SEGMENT pins & 4 GRID pins on the IC will be used to make LED display.
 2. GRID pins will be used for each digit in a display. IC has 6 grid pins. I am making a 4 digit 7 segment display. So, I will only use 4 grid pins.
