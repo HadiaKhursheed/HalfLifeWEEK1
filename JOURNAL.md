@@ -18,7 +18,7 @@
 2. [2026-10-08: I made my pcb's schematic diagram. But face issues to convert into pcb.](#2026-10-08-i-made-my-pcbs-schematic-diagram-but-face-issues-)
 3. [2026-10-09: Tested the display codes. And finalized the parts I need to buy for the project.](#2026-10-09-tested-the-display-codes-and-finalized-the-parts-)
 4. [2026-10-09: At the beginning when I was doing research work for my project I documented what I learnt. So I used that document as reference to write my Readme file.](#2026-10-09-at-the-beginning-when-i-was-doing-research-work-f)
-5. [2026-10-10: Routing PCB was so confusing for me. Will try again soon.](#2026-10-10-routing-pcb-was-so-confusing-for-me-will-try-agai)
+5. [2026-10-10: I watched tutorials to route my PCB. Routing PCB was so confusing for me. Will try again soon.](#2026-10-10-i-watched-tutorials-to-route-my-pcb-routing-pcb-w)
 6. [2026-10-10: Tracked my code time in Hackatime](#2026-10-10-tracked-my-code-time-in-hackatime)
 7. [2026-10-11: Work session](#2026-10-11-work-session)
 8. [2026-10-11: Work session](#2026-10-11-work-session)
@@ -62,11 +62,11 @@ At the beginning when I was doing research work for my project I documented what
 
 [Timelapse](https://lookout.hackclub.com/api/media/a53d7fef-7118-432c-afac-6067e46a6a9b/video.mp4)
 
-### 2026-10-10: Routing PCB was so confusing for me. Will try again soon.
+### 2026-10-10: I watched tutorials to route my PCB. Routing PCB was so confusing for me. Will try again soon.
 
 **0.43h**
 
-Routing PCB was so confusing for me. Will try again soon.
+I watched tutorials to route my PCB. Routing PCB was so confusing for me. Will try again soon.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4f08e2e6-07bb-4cc3-8e93-15b7ec8d9de5/video.mp4)
 
