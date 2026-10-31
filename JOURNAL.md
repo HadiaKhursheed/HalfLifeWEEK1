@@ -16,7 +16,7 @@
 
 1. [2026-10-07: I researched for my PCB. Found the schematics, features and read datasheets. I also learned how the IC in my project will work along with other components connected to it. And documented my search and](#2026-10-07-i-researched-for-my-pcb-found-the-schematics-feat)
 2. [2026-10-08: I made my pcb's schematic diagram. But face issues to convert into pcb.](#2026-10-08-i-made-my-pcbs-schematic-diagram-but-face-issues-)
-3. [2026-10-09: Work session](#2026-10-09-work-session)
+3. [2026-10-09: Tested the display codes. And finalized the parts I need to buy for the project.](#2026-10-09-tested-the-display-codes-and-finalized-the-parts-)
 4. [2026-10-09: Work session](#2026-10-09-work-session)
 5. [2026-10-10: Routing PCB was so confusing for me. Will try again soon.](#2026-10-10-routing-pcb-was-so-confusing-for-me-will-try-agai)
 6. [2026-10-10: Tracked my code time in Hackatime](#2026-10-10-tracked-my-code-time-in-hackatime)
@@ -46,9 +46,11 @@ I made my pcb's schematic diagram. But face issues to convert into pcb.
 
 [Timelapse](https://lookout.hackclub.com/api/media/383b3471-2fa2-4e15-8b1f-e55bf37ab5f4/video.mp4)
 
-### 2026-10-09: Work session
+### 2026-10-09: Tested the display codes. And finalized the parts I need to buy for the project.
 
 **1.08h**
+
+Tested the display codes. And finalized the parts I need to buy for the project.
 
 [Timelapse](https://lookout.hackclub.com/api/media/e855bce6-46df-4795-b51d-018b3ded4586/video.mp4)
 
