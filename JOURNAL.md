@@ -23,7 +23,7 @@
 7. [2026-10-11: Work session](#2026-10-11-work-session)
 8. [2026-10-11: Gave final touches to my PCB. Checked DRC and downloaded gerber.](#2026-10-11-gave-final-touches-to-my-pcb-checked-drc-and-down)
 9. [2026-10-11: On a notebook I tested all the alphanumeric characters that this display can run easily.](#2026-10-11-on-a-notebook-i-tested-all-the-alphanumeric-chara)
-10. [2026-10-11: too much errors while dowloading design files](#2026-10-11-too-much-errors-while-dowloading-design-files)
+10. [2026-10-11: I couldn't find proper file formats that had to be uploaded on Half-Life. There were too much errors while dowloading design files](#2026-10-11-i-couldnt-find-proper-file-formats-that-had-to-be)
 11. [2026-10-11: Almost done with the project (finalised git repo)](#2026-10-11-almost-done-with-the-project-finalised-git-repo)
 
 ## Design
@@ -100,11 +100,11 @@ On a notebook I tested all the alphanumeric characters that this display can run
 
 [Timelapse](https://lookout.hackclub.com/api/media/8a265cf8-f36c-48e1-9d2d-22a981af66c2/video.mp4)
 
-### 2026-10-11: too much errors while dowloading design files
+### 2026-10-11: I couldn't find proper file formats that had to be uploaded on Half-Life. There were too much errors while dowloading design files
 
 **0.75h**
 
-too much errors while dowloading design files
+I couldn't find proper file formats that had to be uploaded on Half-Life. There were too much errors while dowloading design files
 
 [Timelapse](https://lookout.hackclub.com/api/media/bfe5ffc6-6301-4690-ba62-3b40c59f5fba/video.mp4)
 
