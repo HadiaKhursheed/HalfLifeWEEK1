@@ -24,7 +24,7 @@
 8. [2026-10-11: Gave final touches to my PCB. Checked DRC and downloaded gerber.](#2026-10-11-gave-final-touches-to-my-pcb-checked-drc-and-down)
 9. [2026-10-11: On a notebook I tested all the alphanumeric characters that this display can run easily.](#2026-10-11-on-a-notebook-i-tested-all-the-alphanumeric-chara)
 10. [2026-10-11: I couldn't find proper file formats that had to be uploaded on Half-Life. There were too much errors while dowloading design files](#2026-10-11-i-couldnt-find-proper-file-formats-that-had-to-be)
-11. [2026-10-11: Almost done with the project (finalised git repo)](#2026-10-11-almost-done-with-the-project-finalised-git-repo)
+11. [2026-10-11: Schematic done, PCB designed, Git Repo done & Lapse completed](#2026-10-11-schematic-done-pcb-designed-git-repo-done-lapse-c)
 
 ## Design
 
@@ -108,10 +108,11 @@ I couldn't find proper file formats that had to be uploaded on Half-Life. There 
 
 [Timelapse](https://lookout.hackclub.com/api/media/bfe5ffc6-6301-4690-ba62-3b40c59f5fba/video.mp4)
 
-### 2026-10-11: Almost done with the project (finalised git repo)
+### 2026-10-11: Schematic done, PCB designed, Git Repo done & Lapse completed
 
 **0.32h**
 
+Schematic done, PCB designed, Git Repo done & Lapse completed
 Almost done with the project (finalised git repo)
 
 [Timelapse](https://lookout.hackclub.com/api/media/28f9d61f-7653-4598-9095-edaa364853fb/video.mp4)
