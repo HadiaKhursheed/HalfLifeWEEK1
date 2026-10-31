@@ -21,7 +21,7 @@
 5. [2026-10-10: I watched tutorials to route my PCB. Routing PCB was so confusing for me. Will try again soon.](#2026-10-10-i-watched-tutorials-to-route-my-pcb-routing-pcb-w)
 6. [2026-10-10: Tracked my code time in Hackatime](#2026-10-10-tracked-my-code-time-in-hackatime)
 7. [2026-10-11: Work session](#2026-10-11-work-session)
-8. [2026-10-11: Work session](#2026-10-11-work-session)
+8. [2026-10-11: Gave final touches to my PCB. Checked DRC and downloaded gerber.](#2026-10-11-gave-final-touches-to-my-pcb-checked-drc-and-down)
 9. [2026-10-11: Work session](#2026-10-11-work-session)
 10. [2026-10-11: too much errors while dowloading design files](#2026-10-11-too-much-errors-while-dowloading-design-files)
 11. [2026-10-11: Almost done with the project (finalised git repo)](#2026-10-11-almost-done-with-the-project-finalised-git-repo)
@@ -84,9 +84,11 @@ Tracked my code time in Hackatime
 
 [Timelapse](https://lookout.hackclub.com/api/media/4c43de15-56ff-413d-8ba8-d95a7e008a9c/video.mp4)
 
-### 2026-10-11: Work session
+### 2026-10-11: Gave final touches to my PCB. Checked DRC and downloaded gerber.
 
 **0.03h**
+
+Gave final touches to my PCB. Checked DRC and downloaded gerber.
 
 [Timelapse](https://lookout.hackclub.com/api/media/344215cc-93e3-4290-bf05-dfe5029d441c/video.mp4)
 
