@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+TM1637 IC,1,Sunrom Electronics,$0.31,$0.31,https://www.sunrom.com/p/tm1637-soic20-led-display-and-keypad-driver-ic
+Leds,30,Sunrom Electronics,$0.04,$1.20,https://www.sunrom.com/p/red-led-3mm
+Resistor,2,Sunrom Electronics,$0.04,$0.08,https://www.sunrom.com/p/0r5-1-1206-smd-shunt-resistor-05-ohms-0125w-18w
+Capacitor,2,Sunrom Electronics,$0.03,$0.06,https://www.sunrom.com/p/10uf-106-smd-50v-x7r-1206
+ESP32-C3 Development Board,1,Robu.in,$3.00,$3.00,https://robu.in/product/esp32-c3-development-board-with-soldering/
+Jumper wires,1,Robu.in,$1.02,$1.02,https://robu.in/product/male-to-female-jumper-wires-40-pin-40cm/
+Printed Circuit Board,1,Robo.in,$12.20,$12.20,https://robu.in/product/online-pcb-manufacturing-service/
+Estimated total shipping,1,,,$9.00,
